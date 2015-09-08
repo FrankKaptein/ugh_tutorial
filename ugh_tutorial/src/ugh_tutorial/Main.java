@@ -8,6 +8,7 @@ public class Main {
 		
 		System.out.println("hoest");
 
+		System.out.println("test");
 	}
 
 }
